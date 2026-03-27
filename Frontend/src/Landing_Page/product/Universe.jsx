@@ -62,7 +62,7 @@ function Universe() {
                 {/* Bottom CTA Button */}
                 <div className="col-12 mt-5 text-center">
                     <a
-                        href="https://aapka-dashboard-link.netlify.app"
+                        href="https://dashborad03.netlify.app/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-decoration-none d-inline-block w-100"

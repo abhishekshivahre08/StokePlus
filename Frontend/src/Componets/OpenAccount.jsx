@@ -1,28 +1,4 @@
-// import React from 'react'
 
-// function OpenAccount() {
-//     return (
-//         <div className="container p-5 mb-5  ">
-//             <div className="row text-center  ">
-//                 <h1 className='mb-4 '>Open a StokePulse account</h1>
-//                 <p>Modern platforms and apps, ₹0 investments, and flat ₹20 intraday and F&O trades. </p>
-//                 <a
-//                     href="https://aapka-dashboard-link.netlify.app"
-//                     target="_blank"
-//                     rel="noopener noreferrer"
-//                     className="start-btn"
-//                 >
-//                     <button className='p-3 btn btn-primary fs-5 mb-5' style={{ width: "20%", margin: "auto" }}>Start Now</button>
-//                 </a>
-
-
-//             </div>
-
-//         </div>
-//     );
-// }
-
-// export default OpenAccount;
 
 import React from 'react'
 
@@ -44,7 +20,7 @@ function OpenAccount() {
                     {/* Centralized Action Button */}
                     <div className="d-flex justify-content-center">
                         <a
-                            href="http://localhost:3000/"
+                            href="https://dashborad03.netlify.app/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-decoration-none w-100"

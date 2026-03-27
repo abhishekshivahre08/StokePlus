@@ -25,7 +25,7 @@ function Hero() {
           </p>
           
           <a
-            href="http://localhost:3000/"
+            href="https://dashborad03.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-decoration-none"
