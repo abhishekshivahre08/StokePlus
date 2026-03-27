@@ -11,7 +11,7 @@ const Holdings = () => {
 
   useEffect(() => {
     // API call - Make sure your backend is running on 3002
-    axios.get("http://localhost:3002/allHoldings").then((res) => {
+    axios.get("https://backend-c60g.onrender.com/allholdings").then((res) => {
       setAllHoldings(res.data);
     });
   }, []);
