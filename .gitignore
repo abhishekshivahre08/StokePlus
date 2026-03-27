@@ -1,0 +1,7 @@
+# Ignore node_modules in all subfolders
+Backend/node_modules/
+Frontend/node_modules/
+dashboard/node_modules/
+
+# Ignore environment variables (security ke liye)
+**/.env

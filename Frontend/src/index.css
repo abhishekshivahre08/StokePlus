@@ -1,0 +1,54 @@
+.nav-link {
+    margin-left: 40px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.abhi a {
+    text-decoration: none;
+}
+
+.abhi2 a {
+    text-decoration: none;
+}
+
+.abhi5 a {
+    text-decoration: none;
+}
+
+.abhi8 a {
+    text-decoration: none;
+}
+
+.abhi9 a {
+    text-decoration: none;
+}
+
+#SupportHero {
+    background-color: rgb(56, 126, 209);
+    color: azure;
+}
+
+#Supportcontainer {
+    display: flex;
+    justify-content: space-between;
+    color: azure;
+    margin: 0 150px;
+}
+
+#Supportcontainer a {
+    /* text-decoration: none; */
+    color: azure;
+    margin: 5px;
+}
+
+#Supportcontainer input {
+    padding: 20px 100px;
+    border-radius: 10px 10px;
+    border-color: black;
+    width: 100%;
+    font-size: 20px;
+}
